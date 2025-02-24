@@ -10,7 +10,7 @@
 
 // CODE QUESTION 3:
 
-// -
+// - sono stati memorizzati 9 oggetti
 
 //     CODE QUESTION 4:
 
